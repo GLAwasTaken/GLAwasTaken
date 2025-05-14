@@ -11,11 +11,12 @@ I'm a Computer Engineer graduated at UniCal (Università della Calabria) and I'm
 - **PSW_project** is the repository for the project of the **Web Applications** exam
 - **Secure_movie_GUI** is the repository for the project of **Secure Software Design** exam
 
+<!--
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLAwasTaken&theme=bear&hide_border=true&hide=ShaderLab,HLSL&layout=compact&langs_count=8" />
 </a>
 
-<!--
+
 **GLAwasTaken/GLAwasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
