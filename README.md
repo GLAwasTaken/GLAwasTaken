@@ -12,7 +12,7 @@ I'm a Computer Engineer graduated at UniCal (Università della Calabria) and I'm
 - **Secure_movie_GUI** is the repository for the project of **Secure Software Design** exam
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farfi55&theme=bear&hide_border=true&hide=ShaderLab,HLSL&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLAwasTaken&theme=bear&hide_border=true&hide=ShaderLab,HLSL&layout=compact&langs_count=8" />
 </a>
 
 <!--
