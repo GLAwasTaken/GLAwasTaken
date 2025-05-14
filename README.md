@@ -8,8 +8,8 @@ I'm a Computer Engineer graduated at UniCal (Università della Calabria) and I'm
 - **ML** is the repository for the project of the **Machine Learning** exam
 - **Snakes_and_Ladders** is the repository for the project of the **Software Engineering** exam
 - **School-Timetable** is the repository for the project of the **Agile Methodologies** exam
-- **Secure_movie_GUI** is the repository for the project of **Secure Software Design** exam
 - **PSW_project** is the repository for the project of the **Web Applications** exam
+- **Secure_movie_GUI** is the repository for the project of **Secure Software Design** exam
 
 <!--
 **GLAwasTaken/GLAwasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
