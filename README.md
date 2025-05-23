@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Gianmarco La Marca
 
 # About Me
-I'm a Computer Engineer graduated at UniCal (Università della Calabria) and I'm currently attending master degree in AI and Cybersecurity at UniCal (Università della Calabria).
+I'm a Computer Engineer graduated at UniCal (Università della Calabria) and I'm currently attending master degree in Artificial Intelligence and Computer Science (curriculum Cybersecurity) at UniCal, Università della Calabria.
 
 ## Featured Projects
 - **DLA** is the repository for the project of the **Deep Learning** and **Algorithmic Game Theory** exam
